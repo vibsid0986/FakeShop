@@ -1,0 +1,13 @@
+.Header {
+  height: 5rem;
+  width: 100%;
+  display: flex;
+  background-color: red;
+  font-size: xx-large;
+  color: black;
+  border: 2px solid black;
+  justify-content: center;
+  align-items: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

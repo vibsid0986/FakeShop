@@ -1,0 +1,26 @@
+.panel-cont {
+  max-width: 15rem;
+}
+.cat-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  width: inherit;
+  margin-right: 3rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.cat-item:hover {
+  background-color: silver;
+}
+.selected {
+  background-color: palegreen;
+}
+.rounded {
+  position: absolute;
+  border-left: 6px solid gray;
+  height: 75%;
+  left: 25%;
+}
